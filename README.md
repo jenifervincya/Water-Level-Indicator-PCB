@@ -1,9 +1,24 @@
-This project is a PCB design for a water level indicator.
+# Water Level Indicator PCB
 
-Designed using Autodesk EAGLE.
-Includes schematic, PCB layout, Gerber files, and assembled board.
+## Overview
+This project is a PCB design for a water level indicator system. The circuit detects different water levels and indicates them using LEDs.
 
-The board is single-layer with through-hole components.
-All components are mounted on top and soldered on the bottom side.
+## My Contribution
+- Designed schematic and PCB layout using Autodesk EAGLE
+- Generated Gerber files for fabrication
+- Assembled components on PCB
+- Performed through-hole soldering (components on top, soldering on bottom)
+- Tested and debugged the circuit
 
-This project demonstrates the complete workflow from design to testing.
+## PCB Details
+- Type: Single-layer PCB
+- Components: Through-hole components
+- Routing: Optimized layout for clean connections without overlaps
+
+## Files Included
+- Design files (.sch, .brd)
+- Gerber files for manufacturing
+- Images of PCB layout and assembled board
+
+## Learning Outcome
+This project helped me understand the complete PCB workflow from design to fabrication and testing.
