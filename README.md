@@ -4,8 +4,6 @@
 
 The Water Level Indicator PCB is a hardware project that monitors water levels in a storage tank and provides visual indication of the current level. The project focuses on designing a compact, reliable, and easy-to-fabricate PCB for practical water level monitoring applications.
 
-🔗 **GitHub Repository:** https://github.com/jenifervincya/Water-Level-Indicator-PCB
-
 ---
 
 ## ✨ Features
